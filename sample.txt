@@ -1,2 +1,3 @@
-the sun rises in the east
+the sun rises 
 Hello world
+good morning
